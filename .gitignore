@@ -1,0 +1,15 @@
+.idea/*
+.DS_Store
+*.csv
+*.a
+
+# This
+kitty_mon_client
+kitty_mon_client.exe
+app
+
+.cache/
+test/*
+testdb/*
+stash/*
+_vendor/pkg/*
